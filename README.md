@@ -1,5 +1,5 @@
  #  Badge Repository
 
 Testing GitHub Achievements.!
-Learning GitHub achievements.!
+Learning Git Hub achievements.!
 Adding a test line for PR
