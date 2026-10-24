@@ -7,3 +7,4 @@ Adding a test line for PR
 Adding a second test line for Farheen's Pull Shark badge.
 Creating a fresh PR for Gurpreet to merge.
 Adding a line from Farheen's fork for badge verification.
+Pairing verification check.
